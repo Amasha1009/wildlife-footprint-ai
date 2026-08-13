@@ -1,0 +1,5 @@
+print("====================================")
+print(" Wildlife Footprint Project")
+print(" Member 1 - Dataset Preparation")
+print("====================================")
+print("Python setup is working!")

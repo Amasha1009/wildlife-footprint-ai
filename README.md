@@ -859,6 +859,11 @@ PHOTO + INFORMATION
        ↓
 USER
 ```
+#GitHub Repository Link
+https://github.com/Amasha1009/wildlife-footprint-ai.git
+
+#Live Demo Link 
+https://wildlife-footprint-ai-jre8xwhbz4r7hwudbcxueh.streamlit.app/
 
 **AI-Based Wildlife Footprint and Animal Identification System**
 *An integrated machine learning application for wildlife footprint identification.*
